@@ -1,0 +1,4 @@
+[
+  { "key": "Home", "props": { "path": "/", "exact": true } },
+  { "key": "Http404", "props": { "path": "*" } }
+]
