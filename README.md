@@ -1,6 +1,6 @@
 <div align="center">
   
-# Resume React App Template
+# React Simple SPA
 
 Opinionated Simple SPA Skeleton with Vite, Tailwind, Recoil, SWR
 
